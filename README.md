@@ -6,6 +6,7 @@ This project features a clean HTML/CSS based interface for fantasy items such as
 
 ## Features
 
+-You can merge items in crafting mode
 - Responsive and styled inventory layout.
 - Custom item icons (weapons, potions, shields, etc.)
 - Tweaked drag and drop mechanics
